@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Bonsais-Orlando",
+    "slug": "Bonsais-Orlando",
+    "version": "1.0.0",
+    "icon": "./assets/iconApp.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/iconApp.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconApp.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.fcurrao.BonsaisOrlando"
+    },
+    "web": {
+      "favicon": "./assets/iconApp.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "811b7530-da0a-4113-b7d7-7ae05027a073"
+      }
+    }
+  }
+}
